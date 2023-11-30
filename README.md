@@ -1,2 +1,2 @@
-# GWVD (Groundwater Virome Database)
-The custom codes used for viral identification and host assignment 
+# GWVD (Groundwater Virome Database) custom codes
+The custom codes used for viral identification and host assignment.
